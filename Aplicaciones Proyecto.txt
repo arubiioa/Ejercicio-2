@@ -1,0 +1,10 @@
+Visualizacion: Quicksight, PowerBI,DataDog
+
+Ingesta: Transer Family, Database Migration Service, Apache Skoop
+
+ETL: AWS Glue, AWS Lambda
+
+Análisis: AWS Athena
+
+Orquestación: AWS ECS, AWS Steep Functions
+
